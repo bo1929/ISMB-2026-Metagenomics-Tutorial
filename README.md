@@ -75,8 +75,8 @@ Please email me at asapci(at)ucsd(dot)edu if you do not have access to the proto
 
 **Estimating distances from reads to genomes and phylogenetic placement using krepp**
 
-* **Pre-tutorial setup:** Please follow the steps in [this repository](https://github.com/bo1929/ismb2026-krepp-tutorial-materials) to install the software and download the dataset for the exercises.
-* Participants will follow [this page](https://bo1929.github.io/documents/krepp-tutorial-ismb2026/02-setup.html) for the hands-on exercises during the tutorial.
+* **Pre-tutorial setup:** Please follow the steps on [this page](https://bo1929.github.io/documents/krepp-tutorial-ismb2026/02-setup.html) to install the software and download the dataset for the exercises.
+* Participants will be following [this page](https://bo1929.github.io/documents/krepp-tutorial-ismb2026/full.html) for the hands-on exercises during the tutorial.
 
 ### 4:00 pm - 4:15 pm (15 mins): Coffee Break
 
