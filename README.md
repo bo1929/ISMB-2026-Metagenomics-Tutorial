@@ -1,4 +1,5 @@
-# ISMB 2026: Scalable metagenomic sequence analysis using *k*-mer based methods
+# ISMB 2026 Tutorials
+## Scalable metagenomic sequence analysis using *k*-mer based methods
 This tutorial offers a practical introduction to *k*-mer–based approaches for large-scale metagenomic analysis, featuring some of the most widely used and prominent tools in the field.
 Hands-on exercises will help participants become familiar with these methods.
 The tools that will be covered include:
