@@ -10,7 +10,7 @@ The tools that will be covered include:
 * [VirFinder and *d2*](#virfinder-and-d2) family of tools for phage identification and phage–host interaction prediction.
 
 All sessions will consist of a short presentation to provide background and a high-level understanding of the method, followed by a hands-on interactive session.
-Each tool requires a different setup and provides a different set of installation instructions. Please follow the instructions given in **pre-tutorial setup** and have the required setup ready before the tutorial to ensure a smooth experience during the hands-on exercises.
+Each tool requires a different setup and provides a different set of installation instructions. Please follow the instructions given in the **pre-tutorial setup** and have the required setup ready before the tutorial to ensure a smooth experience during the hands-on exercises.
 
 The instructors will make their slides available either on this page or through other platforms closer to the tutorial date.
 
@@ -34,7 +34,7 @@ For questions or concerns, you can email me (Ali Şapcı) at asapci(at)ucsd(dot)
 * **Pre-tutorial setup:** No installation or data preparation is required before the tutorial!
 * A sandbox.bio application will be linked on this page.
 * A Pyodide application will be used to explore Kraken2 classification decisions.
-* For further reading and optional hands-on exercises, refer to [this protocol paper](https://www.nature.com/articles/s41596-022-00738-y).
+* For further (optional) reading and exercises, refer to [this protocol paper](https://www.nature.com/articles/s41596-022-00738-y).
 
 ### 10:45 am - 11:00 am (15 mins): Coffee Break
 
@@ -55,7 +55,7 @@ Please email me at asapci(at)ucsd(dot)edu if you do not have access to the proto
 ***k*-mer sketching for fast metagenomic analysis using Sourmash and YACHT for hypothesis-testing-based taxonomic profiling**
 
 * **Pre-tutorial setup:** Please follow the steps [here](https://github.com/KoslickiLab/ISMB-2026-workshop) to install the software and download the dataset for the exercises.
-* You can find the tutorial materials and exercises for [here (Sourmash)](https://github.com/KoslickiLab/ISMB-2026-workshop/blob/main/Sourmash.md) and [here (YACHT)](https://github.com/KoslickiLab/ISMB-2026-workshop/blob/main/YACHT.md).
+* You can find the tutorial materials and exercises [here (Sourmash)](https://github.com/KoslickiLab/ISMB-2026-workshop/blob/main/Sourmash.md) and [here (YACHT)](https://github.com/KoslickiLab/ISMB-2026-workshop/blob/main/YACHT.md).
 
 ### 1:00 pm - 2:00 pm (1 hour): Lunch Break
 
@@ -74,8 +74,8 @@ Please email me at asapci(at)ucsd(dot)edu if you do not have access to the proto
 
 **Estimating distances from reads to genomes and phylogenetic placement using krepp**
 
-* **Pre-tutorial setup:** Please follow the steps in [this repository]() to install the software and download the dataset for the exercises.
-* Participants will follow [this page] for the hands-on exercises during the tutorial.
+* **Pre-tutorial setup:** Please follow the steps in [this repository](https://github.com/bo1929/ismb2026-krepp-tutorial-materials) to install the software and download the dataset for the exercises.
+* Participants will follow [this page](https://bo1929.github.io/documents/krepp-tutorial-ismb2026.html) for the hands-on exercises during the tutorial.
 
 ### 4:00 pm - 4:15 pm (15 mins): Coffee Break
 
