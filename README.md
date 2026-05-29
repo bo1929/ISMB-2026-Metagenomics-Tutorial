@@ -1,3 +1,4 @@
+![ISMB 2026](logo.png)
 # Scalable metagenomic sequence analysis using *k*-mer based methods
 This tutorial offers a practical introduction to *k*-mer–based approaches for large-scale metagenomic analysis, featuring some of the most widely used and prominent tools in the field.
 Hands-on exercises will help participants become familiar with these methods.
@@ -14,7 +15,7 @@ Each tool may require a different setup.
 Instructors will make their slides available.
 
 ## Schedule and links
-- 9:00 am - 9:15 am (15 mins): Siavash Mirarab
+### 9:00 am - 9:15 am (15 mins): Siavash Mirarab
 **Introduction, schedule, and logistics**
 
 ### 9:15 am - 9:45 am (30 mins): Siavash Mirarab
@@ -23,7 +24,7 @@ Instructors will make their slides available.
 ### 9:45 am - 10:45 am (1 hour): Ben Langmead
 **Taxonomic classification using Kraken2**
 
-- No install or data preparation is required before the tutorial!
+- **Pre-tutorial setup:** No install or data preparation is required before the tutorial!
 
 - A sandbox.bio application will be linked on this page.
 
@@ -36,7 +37,7 @@ Instructors will make their slides available.
 ### 11:00 am - 12:00 pm (1 hour): Fengzhu Sun
 **Phage identification and phage-host interaction using VirFinder and *d2* family of methods**
 
-- No installation or environment setup is needed before the tutorial!
+- **Pre-tutorial setup:** No installation or environment setup is needed before the tutorial!
 
 - The hands-on tutorial will be through [this Colab notebook](https://colab.research.google.com/drive/12RK4Dhqrr5M_HouFl6hbbzFdv2KEihDQ).
 
@@ -71,7 +72,7 @@ Multicore setups are recommended but not necessary.
 ### 4:15 pm - 4:45 pm (30 mins): Shayesteh Arasti
 **Consolidating read placements into a few phylogenetic placements using DecoDiPhy**
 
-- No installation or environment setup is needed before the tutorial!
+- **Pre-tutorial setup:** No installation or environment setup is needed before the tutorial!
 
 - The tutorial for DecoDiPhy will follow this [Colab notebook](https://github.com/shayesteh99/DecoDiPhy/blob/main/DecoDiPhy_tutorial.ipynb)
 
@@ -83,7 +84,7 @@ Multicore setups are recommended but not necessary.
 - See [this document](kf2vec-tutorial.pdf) for the hands-on exercises.
 
 ### 5:15 pm - 5:30 pm (15 mins): Siavash Mirarab
-Discussion of applications & closing remarks
+**Discussion of applications & closing remarks**
 
 ### 5:30 pm - 5:45 pm (15 mins)
-Audience survey on the effectiveness of the course
+**Audience survey on the effectiveness of the course**
