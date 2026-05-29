@@ -9,7 +9,8 @@ The tools that will be covered include:
 * [krepp](#krepp), [DecoDiPhy](#decodiphy), and [kf2vec](#kf2vec) for phylogenetic placement and distance estimation,
 * [VirFinder and *d2*](#virfinder-and-d2) family of tools for phage identification and phage–host interaction prediction.
 
-Each tool may require a different setup and provide a different set of installation instructions. For each session, please follow the instructions given in **pre-tutorial setup** and have the required setup ready before the tutorial to ensure a smooth experience during the hands-on exercises.
+All sessions will consist of a short presentation to provide background and a high-level understanding of the method, followed by a hands-on interactive session.
+Each tool requires a different setup and provides a different set of installation instructions. Please follow the instructions given in **pre-tutorial setup** and have the required setup ready before the tutorial to ensure a smooth experience during the hands-on exercises.
 
 The instructors will make their slides available either on this page or through other platforms closer to the tutorial date.
 
@@ -33,7 +34,7 @@ For questions or concerns, you can email me (Ali Şapcı) at asapci(at)ucsd(dot)
 * **Pre-tutorial setup:** No installation or data preparation is required before the tutorial!
 * A sandbox.bio application will be linked on this page.
 * A Pyodide application will be used to explore Kraken2 classification decisions.
-* For further reading and hands-on exercises, refer to [this protocol paper](https://www.nature.com/articles/s41596-022-00738-y).
+* For further reading and optional hands-on exercises, refer to [this protocol paper](https://www.nature.com/articles/s41596-022-00738-y).
 
 ### 10:45 am - 11:00 am (15 mins): Coffee Break
 
@@ -44,7 +45,7 @@ For questions or concerns, you can email me (Ali Şapcı) at asapci(at)ucsd(dot)
 
 * **Pre-tutorial setup:** No installation or environment setup is needed before the tutorial!
 * The hands-on tutorial will be conducted through [this Colab notebook](https://colab.research.google.com/drive/12RK4Dhqrr5M_HouFl6hbbzFdv2KEihDQ).
-* Participants are encouraged, but not required, to review [this protocol paper](https://doi.org/10.1002/cpz1.70310) and [this example](https://github.com/secdio/DeepVirFinder_protocol).
+* Participants are encouraged, but not required, to review [this protocol paper](https://doi.org/10.1002/cpz1.70310).
 
 Please email me at asapci(at)ucsd(dot)edu if you do not have access to the protocol paper due to a paywall.
 
@@ -53,13 +54,12 @@ Please email me at asapci(at)ucsd(dot)edu if you do not have access to the proto
 
 ***k*-mer sketching for fast metagenomic analysis using Sourmash and YACHT for hypothesis-testing-based taxonomic profiling**
 
-* **Pre-tutorial setup:** Please follow the steps in [this repository](https://github.com/KoslickiLab/ISMB-2026-workshop) to install Sourmash and YACHT and download the data that will be used in the tutorial.
-* Tutorial materials and exercises for [Sourmash](https://github.com/KoslickiLab/ISMB-2026-workshop/blob/main/Sourmash.md) and [YACHT](https://github.com/KoslickiLab/ISMB-2026-workshop/blob/main/YACHT.md).
+* **Pre-tutorial setup:** Please follow the steps [here](https://github.com/KoslickiLab/ISMB-2026-workshop) to install the software and download the dataset for the exercises.
+* You can find the tutorial materials and exercises for [here (Sourmash)](https://github.com/KoslickiLab/ISMB-2026-workshop/blob/main/Sourmash.md) and [here (YACHT)](https://github.com/KoslickiLab/ISMB-2026-workshop/blob/main/YACHT.md).
 
 ### 1:00 pm - 2:00 pm (1 hour): Lunch Break
 
 ### 2:00 pm - 3:00 pm (1 hour): sylph and skani - Yun William Yu
-
 <a name="sylph-and-skani"></a>
 
 **Abundance profiling using sylph and ANI calculation using skani**
@@ -73,6 +73,9 @@ Please email me at asapci(at)ucsd(dot)edu if you do not have access to the proto
 <a name="krepp"></a>
 
 **Estimating distances from reads to genomes and phylogenetic placement using krepp**
+
+* **Pre-tutorial setup:** Please follow the steps in [this repository]() to install the software and download the dataset for the exercises.
+* Participants will follow [this page] for the hands-on exercises during the tutorial.
 
 ### 4:00 pm - 4:15 pm (15 mins): Coffee Break
 
