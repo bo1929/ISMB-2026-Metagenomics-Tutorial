@@ -50,7 +50,7 @@ For questions or concerns, you can email me (Ali Şapcı) at asapci(at)ucsd(dot)
 
 Please email me at asapci(at)ucsd(dot)edu if you do not have access to the protocol paper due to a paywall.
 
-### 12:00 pm - 1:00 pm (1 hour):sourmash and YACHT - David Koslicki
+### 12:00 pm - 1:00 pm (1 hour): sourmash and YACHT - David Koslicki
 <a name="sourmash-and-yacht"></a>
 
 ***k*-mer sketching for fast metagenomic analysis using Sourmash and YACHT for hypothesis-testing-based taxonomic profiling**
