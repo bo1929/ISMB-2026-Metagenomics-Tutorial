@@ -94,7 +94,7 @@ Please email me at asapci(at)ucsd(dot)edu if you do not have access to the proto
 **Converting sequences into *k*-mer feature representations for phylogenetic placement, classification, and distance estimation**
 
 * **Pre-tutorial setup:** Follow the steps [here](kf2vec-instructions.md).
-* See [this document](kf2vec-tutorial.pdf) for the hands-on exercises.
+* See [this page](https://github.com/noraracht/kf2vec/blob/main/Tutorial_ISMB2026/tutorial_README.md) for the hands-on exercises.
 
 ### 5:15 pm - 5:30 pm (15 mins): Siavash Mirarab
 
