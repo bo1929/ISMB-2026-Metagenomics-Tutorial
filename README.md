@@ -2,6 +2,11 @@
 # Scalable metagenomic sequence analysis using *k*-mer-based methods
 [**July 12, 2026**](https://www.iscb.org/ismb2026/whats-happening/tutorials#ip8)
 
+- **Room: Lincoln East**
+- Date: July 12, 2026
+- Start Time: 09:00
+- End Time: 18:00
+
 This tutorial offers a practical introduction to *k*-mer-based approaches for large-scale metagenomic analysis, featuring some of the most widely used and prominent tools in the field. Hands-on exercises will help participants become familiar with these methods.
 
 The tools that will be covered include:
@@ -81,21 +86,21 @@ Please email me at asapci(at)ucsd(dot)edu if you do not have access to the proto
 
 ### 4:00 pm - 4:15 pm (15 mins): Coffee Break
 
-### 4:15 pm - 4:45 pm (30 mins): DecoDiPhy - Shayesteh Arasti
-<a name="decodiphy"></a>
-
-**Consolidating read placements into a small number of phylogenetic placements using DecoDiPhy**
-
-* **Pre-tutorial setup:** No installation or environment setup is needed before the tutorial!
-* The DecoDiPhy tutorial will follow this [Colab notebook](https://github.com/shayesteh99/DecoDiPhy/blob/main/DecoDiPhy_tutorial.ipynb).
-
-### 4:45 pm - 5:15 pm (30 mins): kf2vec - Eleonora Rachtman
+### 4:15 pm - 4:45 pm (30 mins): kf2vec - Eleonora Rachtman
 <a name="kf2vec"></a>
 
 **Converting sequences into *k*-mer feature representations for phylogenetic placement, classification, and distance estimation**
 
 * **Pre-tutorial setup:** Follow the steps [here](kf2vec-instructions.md).
 * See [this page](https://github.com/noraracht/kf2vec/blob/main/Tutorial_ISMB2026/tutorial_README.md) for the hands-on exercises.
+
+### 4:45 pm - 5:15 pm (30 mins): DecoDiPhy - Shayesteh Arasti
+<a name="decodiphy"></a>
+
+**Consolidating read placements into a small number of phylogenetic placements using DecoDiPhy**
+
+* **Pre-tutorial setup:** No installation or environment setup is needed before the tutorial!
+* The DecoDiPhy tutorial will follow this [Colab notebook](https://github.com/shayesteh99/DecoDiPhy/blob/main/DecoDiPhy_tutorial.ipynb).
 
 ### 5:15 pm - 5:30 pm (15 mins): Siavash Mirarab
 
