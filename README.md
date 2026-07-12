@@ -38,7 +38,7 @@ For questions, you can email me (Ali Şapcı) at asapci(at)ucsd(dot)edu or creat
 **Taxonomic classification using Kraken2**
 
 * The tutorial page can be found [here](https://benlangmead.github.io/k-explore/tutorial.html)!
-* For further (optional) reading and exercises, refer to [this protocol paper](https://www.nature.com/articles/s41596-022-00738-y).
+* For further (optional) reading, refer to [this protocol paper](https://www.nature.com/articles/s41596-022-00738-y).
 
 ### 10:45 am - 11:00 am (15 mins): Coffee Break
 
@@ -48,7 +48,7 @@ For questions, you can email me (Ali Şapcı) at asapci(at)ucsd(dot)edu or creat
 **Phage identification and phage–host interaction using VirFinder and the *d2* family of methods**
 
 * The hands-on tutorial will be conducted through [this Colab notebook](https://colab.research.google.com/drive/12RK4Dhqrr5M_HouFl6hbbzFdv2KEihDQ).
-* Participants are encouraged, but not required, to review [this protocol paper](https://doi.org/10.1002/cpz1.70310).
+* For further (optional) reading, refer to [this protocol paper](https://doi.org/10.1002/cpz1.70310).
 
 ### 12:00 pm - 1:00 pm (1 hour): sourmash and YACHT - David Koslicki
 <a name="sourmash-and-yacht"></a>
