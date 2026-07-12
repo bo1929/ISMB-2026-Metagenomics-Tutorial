@@ -20,7 +20,7 @@ Each tool requires a different setup and provides a different set of installatio
 
 The instructors will make their slides available either on this page or through other platforms closer to the tutorial date.
 
-For questions or concerns, you can email me (Ali Şapcı) at asapci(at)ucsd(dot)edu or create an issue in this repository.
+For questions, you can email me (Ali Şapcı) at asapci(at)ucsd(dot)edu or create an issue in this repository.
 
 ## Schedule and links
 
@@ -50,8 +50,6 @@ For questions or concerns, you can email me (Ali Şapcı) at asapci(at)ucsd(dot)
 * The hands-on tutorial will be conducted through [this Colab notebook](https://colab.research.google.com/drive/12RK4Dhqrr5M_HouFl6hbbzFdv2KEihDQ).
 * Participants are encouraged, but not required, to review [this protocol paper](https://doi.org/10.1002/cpz1.70310).
 
-Please email me at asapci(at)ucsd(dot)edu if you do not have access to the protocol paper due to a paywall.
-
 ### 12:00 pm - 1:00 pm (1 hour): sourmash and YACHT - David Koslicki
 <a name="sourmash-and-yacht"></a>
 
@@ -67,10 +65,7 @@ Please email me at asapci(at)ucsd(dot)edu if you do not have access to the proto
 
 **Abundance profiling using sylph and ANI calculation using skani**
 
-* **Pre-tutorial setup:** Participants should have a Linux environment with [Bioconda](https://bioconda.github.io/). The machine should have access to at least 16 GB of RAM and 16 GB of free disk space to run the tutorial. Multicore setups are recommended but not necessary.
-* The tutorials we will follow are available at the following links for [skani](https://github.com/bluenote-1577/skani/wiki/skani-basic-usage-guide) and [sylph](https://sylph-docs.github.io/5%E2%80%90minute-sylph-tutorial/).
-
-**Instructor note:** Closer to the tutorial date, a single combined Git repository and documentation site may be created and linked here to make it easier for participants to follow along.
+* The tutorial meaterials are available at the following links for [skani](https://github.com/bluenote-1577/skani/wiki/skani-basic-usage-guide) and [sylph](https://sylph-docs.github.io/5%E2%80%90minute-sylph-tutorial/).
 
 ### 3:00 pm - 4:00 pm (1 hour): krepp - Ali Osman Berk Şapcı
 <a name="krepp"></a>
