@@ -38,8 +38,7 @@ For questions or concerns, you can email me (Ali Şapcı) at asapci(at)ucsd(dot)
 **Taxonomic classification using Kraken2**
 
 * **Pre-tutorial setup:** No installation or data preparation is required before the tutorial!
-* A sandbox.bio application will be linked on this page.
-* A Pyodide application will be used to explore Kraken2 classification decisions.
+* The tutorial page can be found [here](https://benlangmead.github.io/k-explore/tutorial.html)!
 * For further (optional) reading and exercises, refer to [this protocol paper](https://www.nature.com/articles/s41596-022-00738-y).
 
 ### 10:45 am - 11:00 am (15 mins): Coffee Break
