@@ -37,7 +37,6 @@ For questions or concerns, you can email me (Ali Şapcı) at asapci(at)ucsd(dot)
 
 **Taxonomic classification using Kraken2**
 
-* **Pre-tutorial setup:** No installation or data preparation is required before the tutorial!
 * The tutorial page can be found [here](https://benlangmead.github.io/k-explore/tutorial.html)!
 * For further (optional) reading and exercises, refer to [this protocol paper](https://www.nature.com/articles/s41596-022-00738-y).
 
@@ -48,7 +47,6 @@ For questions or concerns, you can email me (Ali Şapcı) at asapci(at)ucsd(dot)
 
 **Phage identification and phage–host interaction using VirFinder and the *d2* family of methods**
 
-* **Pre-tutorial setup:** No installation or environment setup is needed before the tutorial!
 * The hands-on tutorial will be conducted through [this Colab notebook](https://colab.research.google.com/drive/12RK4Dhqrr5M_HouFl6hbbzFdv2KEihDQ).
 * Participants are encouraged, but not required, to review [this protocol paper](https://doi.org/10.1002/cpz1.70310).
 
@@ -98,7 +96,6 @@ Please email me at asapci(at)ucsd(dot)edu if you do not have access to the proto
 
 **Consolidating read placements into a small number of phylogenetic placements using DecoDiPhy**
 
-* **Pre-tutorial setup:** No installation or environment setup is needed before the tutorial!
 * The DecoDiPhy tutorial will follow this [Colab notebook](https://github.com/shayesteh99/DecoDiPhy/blob/main/DecoDiPhy_tutorial.ipynb).
 
 ### 5:15 pm - 5:30 pm (15 mins): Siavash Mirarab
